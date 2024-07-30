@@ -7,8 +7,7 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
-# tend to be very large files
-*.json
+package-lock.json*
 
 # avoids issues for Mac Users
 .DS_Store
