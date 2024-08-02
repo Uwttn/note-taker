@@ -1,3 +1,16 @@
+# coders guide
+reference.md
+
+# large files
+package-lock.json
+node_modules
+
+# mac user adaptation
+.DS_Store
+
+# credentials
+.env
+
 # Logs
 logs
 *.log
