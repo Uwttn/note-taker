@@ -6,7 +6,7 @@
 
 ## Description
 A note-taking app with the ability save and render content onto the page.
-
+![alt text](note.png)
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
